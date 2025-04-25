@@ -31,4 +31,5 @@ Contents
    dian_hua_quan_tu
    fen_bu_pei_he_fa
    quan_zi_jie_gou_ju_li
+   chong_ding_jiu_gong_ge
    fen_bi_xian_hou
