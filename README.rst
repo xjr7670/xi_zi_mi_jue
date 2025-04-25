@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+习字秘诀 —— [清]蒋和、蒋衡、王澍
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+《习字秘诀》 为清代其名书法家蒋和所著。
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+蒋和，字仲淑，能书善画。清代泰祖永称其书曰：“隶书苍古浑厚，力追秦汉，高出辈流”。著有《学书正宗》、《说文集解》等书。
