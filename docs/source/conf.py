@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'The secret of Chilese calligraphy'
+project = '习字秘诀'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
