@@ -3,11 +3,11 @@
 # -- Project information
 
 project = '习字秘诀'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2025, 东围居士'
+author = '东围居士'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.1'
 
 # -- General configuration
 
