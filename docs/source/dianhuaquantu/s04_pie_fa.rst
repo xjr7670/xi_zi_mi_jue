@@ -124,6 +124,6 @@
 三曲撇
 ----------------
 
-.. image:: ../images/saqupie.jpg
+.. image:: ../images/sanqupie.jpg
    :align: center
 
