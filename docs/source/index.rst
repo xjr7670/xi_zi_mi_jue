@@ -7,8 +7,9 @@
 
    This project is under active development.
 
+------
 自序
------
+------
 
 尝读《笔阵图》，谓藏之石室，千金勿传。鲁公得长史笔法，亦历时久远，疑作者故郑重其辞，欲后人勿轻视也。
 
@@ -22,10 +23,13 @@
 
 乾隆巳亥孟夏江南醉墨后生蒋和识于都门之十橼书屋。
 
+-----------
 Contents
---------
+-----------
 
 .. toctree::
+   :maxdepth: 2
+   :glob:
 
    bi_fa_jing_jie
    dian_hua_quan_tu
