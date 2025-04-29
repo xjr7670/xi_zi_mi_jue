@@ -85,3 +85,6 @@
 
 .. image:: ../images/chaidan.jpg
    :align: center
+
+
+乾隆壬寅立秋后金匮蒋和纂辑并书。
