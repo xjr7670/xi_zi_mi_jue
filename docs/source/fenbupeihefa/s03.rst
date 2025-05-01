@@ -109,7 +109,7 @@
 
 ----------------
 
-.. image:: ../images/xi.png
+.. image:: ../images/xi2.png
    :align: center
 
 “糸”在脚者，上撇要短细。
