@@ -37,3 +37,4 @@ Contents
    ch04_quan_zi_jie_gou_ju_li
    ch05_chong_ding_jiu_gong_ge
    ch06_fen_bi_xian_hou
+   ch07_xue_shu_za_lun
