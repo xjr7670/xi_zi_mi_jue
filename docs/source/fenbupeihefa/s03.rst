@@ -132,7 +132,7 @@
 .. image:: ../images/zouzhidi2.png
    :align: center
 
-“辶”中曲忌断。上边字少者，点与捺俱平。
+“⻎”中曲忌断。上边字少者，点与捺俱平。
 
 .. image:: ../images/ying.png
    :align: center
